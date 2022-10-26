@@ -1,3 +1,3 @@
 # Muskan
 This is my first repository.
-This is frist commit
+This is first commit
